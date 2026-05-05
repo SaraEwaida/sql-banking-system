@@ -46,6 +46,6 @@ inspired by my internship at Palestine Investment Bank.
 - Oracle SQL Developer
 
 
-## 👩‍💻 Author
+##  Author
 Sara Ewaida — Computer Engineering Student @ Birzeit University  
 Intern @ Palestine Investment Bank
