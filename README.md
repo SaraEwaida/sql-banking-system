@@ -14,7 +14,7 @@ inspired by my internship at Palestine Investment Bank.
 | BRANCHES | Bank branch locations and contact info |
 | EMPLOYEES | Bank staff data |
 
-## 📋 Key Columns
+##  Key Columns
 
 ### CUSTOMERS
 - CUSTOMER_ID, FIRST_NAME, LAST_NAME, EMAIL, PHONE, CITY, JOIN_DATE, BRANCH_ID
